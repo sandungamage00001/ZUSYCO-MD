@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '👨🏻‍💻',
+  OWNER_REACT : '<a href="https://emoji.gg/emoji/2089-instagram-verified"><img src="https://cdn3.emoji.gg/emojis/2089-instagram-verified.png" width="64px" height="64px" alt="instagram_verified"></a>',
   
   AUTO_BGM : true,
   BGM : {
