@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "privet",
+  WORK_TYPE : "private",
   WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ꜰɪʟᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ',
