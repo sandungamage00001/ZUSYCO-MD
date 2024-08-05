@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94728756898,94754015815",
   OWNER_NAME: "ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ",
   BOT_NAME : "ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ",
-  ZUSYCO_FILE : "DANUWA",
+  ZUSYCO_FILE : "KAWINDA-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/68cc7d1fe080bb2fd179e.jpg',
     WELCOME: 'https://telegra.ph/file/96ac19123c7280fb84744.jpg',
