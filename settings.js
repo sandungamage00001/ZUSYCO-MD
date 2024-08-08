@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94728756898,94754015815",
   OWNER_NAME: "ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ",
   BOT_NAME : "ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ",
-  ZUSYCO_FILE : "KAWINDA-QR",
+  ZUSYCO_FILE : "LAHIRU1-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/68cc7d1fe080bb2fd179e.jpg',
     WELCOME: 'https://telegra.ph/file/96ac19123c7280fb84744.jpg',
@@ -32,8 +32,8 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_TYPE : "private",
+  WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ꜰɪʟᴇ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄʜᴀʀɪᴛʜ ᴋᴀᴡɪɴᴅᴀ',
   STICKER_PACK : '[ mr.ck ]',
@@ -50,14 +50,14 @@ module.exports = {
   READ : {
      ALL_MESSAGES : false,
      ONLY_COMMANDS : true,
-     STATUS : false,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
   OWNER_REACT : '👨🏻‍💻',
   
-  AUTO_BGM : true,
+  AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
